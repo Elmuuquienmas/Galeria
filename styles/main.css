@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.titulo{
+    display: flex;
+    margin-left: 10px;
+    align-items: center;
+}
+.img{
+    width: 40%;
+    display: flex;
+    justify-content: flex-end;
+}
+.titulo2{
+    width: 60%;
+}
+.icono{
+    margin-top: 10px;
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+}
+.icono1{
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+}
