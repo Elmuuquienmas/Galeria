@@ -28,3 +28,18 @@
     height: 80px;
     margin-right: 20px;
 }
+.container1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.container1 img{
+    width: calc(33.33% - 14px);
+    height: 180px;
+    border-radius: 20%;
+    object-fit: cover;
+    margin: 7px;
+}
